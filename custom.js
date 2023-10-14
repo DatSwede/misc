@@ -49,7 +49,9 @@ document.addEventListener("DOMContentLoaded", function() {
           '\\bClicking\\b': 'Tapping',
           '\\bclicking\\b': 'tapping',
           '\\bClickable\\b': 'Tapable',
-          '\\bclickable\\b': 'tapable'
+          '\\bclickable\\b': 'tapable',
+          '\\bClicked\\b': 'Tapped',
+          '\\bclicked\\b': 'tapped'
         };
 
         // Replace each pattern with the corresponding replacement string
